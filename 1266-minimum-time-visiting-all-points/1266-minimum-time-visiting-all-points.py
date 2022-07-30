@@ -16,7 +16,6 @@ class Solution(object):
                 diff_x *= -1
             temp = max(diff_x, diff_y)
             time += temp
-            print(time)
             m += 1
             n += 1
             
